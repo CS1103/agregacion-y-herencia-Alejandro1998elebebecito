@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA">
+				<Option output="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/fast">
+				<Option output="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Book.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Book.h">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Library.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Library.h">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Magazine.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Magazine.h">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Volume.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/Volume.h">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/catch.hpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/main.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/main_test.cpp">
+			<Option target="TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA"/>
+		</Unit>
+		<Unit filename="C:/Users/albin/CLionProjects/TRABAJOENCLASE_AGREGACIONYHERENCIA_ALEJANDROMAMANIANDIA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
